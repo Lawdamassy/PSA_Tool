@@ -1,4 +1,4 @@
-# ParticleArchive (PSA.MK1) / ParticleArchiveSummoner (PSA_S.MK1)
+# MagicBook-ParticleSystemArchive (PSA.MK1) / ParticleSystemArchiveSummoner (PSA_S.MK1)
 
 Unity向け **パーティクル作業効率化ツールセット** のREADMEです。
 
@@ -6,9 +6,9 @@ Unity向け **パーティクル作業効率化ツールセット** のREADMEで
 
 ## 📦 概要
 
-### ParticleArchive (PSA.MK1)
+### ParticleSystemArchive (PSA.MK1)
 
-**ParticleArchive** は、Unityシーン上に存在する複数の `ParticleSystem` を
+**ParticleSystemArchive** は、Unityシーン上に存在する複数の `ParticleSystem` を
 **一括で Preset（.preset）形式として保存** するためのエディタ拡張ツールです。
 
 手動で1つずつプリセットを作成する手間を省き、
@@ -16,9 +16,9 @@ Unity向け **パーティクル作業効率化ツールセット** のREADMEで
 
 ---
 
-### ParticleArchiveSummoner (PSA_S.MK1)
+### ParticleSystemArchiveSummoner (PSA_S.MK1)
 
-**ParticleArchiveSummoner** は、保存済みの `.preset` を「書庫」から読み込み、
+**ParticleSystemArchiveSummoner** は、保存済みの `.preset` を「書庫」から読み込み、
 **プレビューしながら即座にシーンへ召喚（生成）** するためのツールです。
 
 マテリアル差し替え・スケール調整・親設定などを
